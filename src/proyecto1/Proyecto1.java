@@ -1,0 +1,23 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package proyecto1;
+import basic.Sample;
+import basic.GraphicMessage;
+/**
+ *
+ * @author USER
+ */
+public class Proyecto1 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        //System.out.println("Tu pago es de: " + Sample.calcularCompra());
+        Sample.calificacionEstudiante();
+    }
+    
+}
