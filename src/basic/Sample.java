@@ -39,7 +39,7 @@ public class Sample {
         float suma=0;
         float promedio;
         for (int i = 0; i < 5; i++) {
-            float a= GraphicMessage.readInt((i+1) +". Ingresa tu nota: ");
+            float a= GraphicMessage.readInt((i+1) +". wedwedIngresa tu nota: ");
             suma+=a;
         }
         
